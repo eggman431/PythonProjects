@@ -1,0 +1,2 @@
+python retrain.py --image_dir C:\Users\Egan\Desktop\basicimageclassifier --bottleneck_dir=C:\Users\Egan\Desktop\basicimageclassifier\bottlenecks --how_many_training_steps 500 --model_dir=C:\Users\Egan\Desktop\basicimageclassifier\inception --output_graph=C:\Users\Egan\Desktop\basicimageclassifier\retrained_graph.pb --output_labels=C:\Users\Egan\Desktop\basicimageclassifier\retrained_labels.txt
+pause
